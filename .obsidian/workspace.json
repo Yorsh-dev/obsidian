@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "9d651a7e2215d51a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff8f1534c4388f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b3dd45355ac853",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "90b2b3770d6699e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Diseño de base de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diseño de base de datos"
+            }
+          },
+          {
+            "id": "aa5f3517b33c7e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Pruebas - codigo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pruebas - codigo"
+            }
+          },
+          {
+            "id": "662754abee935364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Pruebas de garantia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pruebas de garantia"
+            }
+          },
+          {
+            "id": "2b2337e8db553060",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "66d0a6cb81dc0430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Diseño Arquitectura del Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diseño Arquitectura del Software"
+            }
+          },
+          {
+            "id": "cb80629d513feab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Diseño Arquitectura del Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diseño Arquitectura del Software"
+            }
+          },
+          {
+            "id": "678bf1bec0da5218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Diseño de base de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diseño de base de datos"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db9ecbc5b3b6af6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19263a43e4d7c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a2399186baaf0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f821aa62dd26f3ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a0af3abb14dbd0c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90ad7dd6ff834bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "112d3d291f62c7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af91ed5fca3e7b4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "5921bb8fb52e8057",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "2054fe536904f422",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "29dda63f392aaa8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2b2337e8db553060",
+  "lastOpenFiles": [
+    "Documentación/Pruebas de software.md",
+    "Documentación/Documentación formatos.md",
+    "Documentación/Pruebas de funcionales.md",
+    "Documentación/Pruebas de garantia.md",
+    "Documentación/Pruebas - codigo.md",
+    "Documentación/Diseño Diagrama UML.md",
+    "Documentación/Diseño de base de datos.md",
+    "Documentación/Diseño Arquitectura del Software.md",
+    "Documentación/Necesidades de la documentacion.md",
+    "Documentación/Requerimientos.md",
+    "Documentación"
+  ]
+}

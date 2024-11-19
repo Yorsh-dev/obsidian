@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "e0e5b6c0a23596e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a631da25e28e14dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ecc10f5b86fb1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Necesitamos/3Pruebas/Pruebas de funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pruebas de funcionales"
+            }
+          },
+          {
+            "id": "06b1ed81d4304501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Necesitamos/3Pruebas/Pruebas de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pruebas de software"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7aab0a61572a630",
+    "type": "split",
+    "children": [
+      {
+        "id": "10e2e6a9acc4a75d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bef6cbe8f4251bc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d8615fbf310edabd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "31a9fc7aaadc5a01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5008242e9c295aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "41b975ebe30eb181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b071e139fdf3991",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Necesitamos/Pruebas de funcionales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Pruebas de funcionales"
+            }
+          },
+          {
+            "id": "491e48778f55065f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Necesitamos/Pruebas de funcionales.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Pruebas de funcionales"
+            }
+          },
+          {
+            "id": "a944a605b4dfc8be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "319d4686c6d8678f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Necesitamos/Pruebas de funcionales.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Pruebas de funcionales"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bef6cbe8f4251bc0",
+  "lastOpenFiles": [
+    "Necesitamos/1Documentación - Diagramas/2Diseño Diagrama UML",
+    "Necesitamos/3Pruebas/Pruebas - codigo.md",
+    "Necesitamos/2Base de datos/Diseño de base de datos.md",
+    "Necesitamos/1Documentación - Diagramas/2Diseño Diagrama UML/2Diseño Arquitectura del Software.md",
+    "Necesitamos/1Documentación - Diagramas/1Diseño Diagrama UML.md",
+    "Necesitamos/1Documentación - Diagramas/3Documentación formatos/Documentación de Software.md",
+    "Necesitamos/1Documentación - Diagramas/3Documentación formatos/1Documentación formatos.md",
+    "Necesitamos/1Documentación - Diagramas/3Documentación formatos/Guía técnica.md",
+    "Necesitamos/1Documentación - Diagramas/3Documentación formatos/Guía de Usuario.md",
+    "Necesitamos/1Documentación - Diagramas/3Documentación formatos",
+    "Sin título.canvas",
+    "Necesitamos/3Pruebas/Pruebas de software.md",
+    "Necesitamos/3Pruebas/Pruebas de garantia.md",
+    "Necesitamos/3Pruebas/Pruebas de funcionales.md",
+    "Necesitamos/3Pruebas",
+    "Necesitamos/1Documentación - Diagramas",
+    "Necesitamos/2Base de datos",
+    "Bienvenido.md",
+    "Documentación.md",
+    "Necesitamos/Guia Developer.md",
+    "cree un enlace.md",
+    "Necesitamos"
+  ]
+}
