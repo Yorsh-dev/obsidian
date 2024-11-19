@@ -11,28 +11,10 @@
             "id": "75ecc10f5b86fb1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Necesitamos/3Pruebas/Pruebas de funcionales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pruebas de funcionales"
-            }
-          },
-          {
-            "id": "06b1ed81d4304501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Necesitamos/3Pruebas/Pruebas de software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pruebas de software"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -176,29 +158,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bef6cbe8f4251bc0",
+  "active": "75ecc10f5b86fb1f",
   "lastOpenFiles": [
+    "Necesitamos/1. Documentación - Diagramas/Documentación - Diagramas.md",
+    "Necesitamos/1. Documentación - Diagramas/3. Documentación formatos/Documentación formatos.md",
+    "Necesitamos/1. Documentación - Diagramas/2. Diseño Arquitectura del Software/Diseño Arquitectura del Software.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/Diseño Diagrama UML.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/1. Casos de uso.md",
+    "Necesitamos/2Base de datos/Diseño de base de datos.md",
+    "Necesitamos/1Documentación - Diagramas/1Diseño Diagrama UML.md",
+    "Necesitamos/1. Documentación - Diagramas/3. Documentación formatos/3. Documentación de Software.md",
+    "Necesitamos/1. Documentación - Diagramas/3. Documentación formatos/2. Guía de Usuario.md",
+    "Necesitamos/1. Documentación - Diagramas/3. Documentación formatos/1. Guía técnica.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/2. Diagrama de procesos.md",
+    "Necesitamos/3Pruebas/Pruebas de software.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/8. Microservicios.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/7. Arquitectura de capas.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/6. Diagrama de Secuencia (Diagrama de flujo).md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/5. Diagramas de componente de alto nivel.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/4. Diagrama de clases.md",
+    "Necesitamos/1. Documentación - Diagramas/1. Diseño y diagrama UML/3. Diagrama de descomposición modular.md",
+    "Necesitamos/3Pruebas/Pruebas de funcionales.md",
     "Necesitamos/1Documentación - Diagramas/2Diseño Diagrama UML",
     "Necesitamos/3Pruebas/Pruebas - codigo.md",
-    "Necesitamos/2Base de datos/Diseño de base de datos.md",
     "Necesitamos/1Documentación - Diagramas/2Diseño Diagrama UML/2Diseño Arquitectura del Software.md",
-    "Necesitamos/1Documentación - Diagramas/1Diseño Diagrama UML.md",
     "Necesitamos/1Documentación - Diagramas/3Documentación formatos/Documentación de Software.md",
     "Necesitamos/1Documentación - Diagramas/3Documentación formatos/1Documentación formatos.md",
     "Necesitamos/1Documentación - Diagramas/3Documentación formatos/Guía técnica.md",
     "Necesitamos/1Documentación - Diagramas/3Documentación formatos/Guía de Usuario.md",
     "Necesitamos/1Documentación - Diagramas/3Documentación formatos",
     "Sin título.canvas",
-    "Necesitamos/3Pruebas/Pruebas de software.md",
     "Necesitamos/3Pruebas/Pruebas de garantia.md",
-    "Necesitamos/3Pruebas/Pruebas de funcionales.md",
     "Necesitamos/3Pruebas",
     "Necesitamos/1Documentación - Diagramas",
     "Necesitamos/2Base de datos",
-    "Bienvenido.md",
-    "Documentación.md",
-    "Necesitamos/Guia Developer.md",
-    "cree un enlace.md",
     "Necesitamos"
   ]
 }

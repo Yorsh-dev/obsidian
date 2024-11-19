@@ -1,4 +1,0 @@
-Pruebas unitarias
-Pruebas sistemas
-Pruebas integración
-Pruebas regresión
