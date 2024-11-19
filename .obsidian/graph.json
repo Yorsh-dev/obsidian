@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Diseño",
+      "query": "section:(desarrollo)",
       "color": {
         "a": 1,
-        "rgb": 3262883
+        "rgb": 14048348
       }
     },
     {
-      "query": "file:Pruebas",
+      "query": "section:(finalizado)",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5234688
       }
     }
   ],
@@ -27,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.000000000000006,
   "close": true
 }

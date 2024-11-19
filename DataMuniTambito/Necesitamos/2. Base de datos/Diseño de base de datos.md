@@ -1,0 +1,5 @@
+[[1. Definir entidades]]
+[[2. Identificar Atributos]]
+[[3. Desarrollo del dominio]]
+[[4. Diagrama entidad-relación]]
+[[5. Diagrama multidimensional]]
