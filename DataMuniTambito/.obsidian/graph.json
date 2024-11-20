@@ -8,10 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "section:(Prioridad1)",
+      "query": "section:(Terminado)",
       "color": {
         "a": 1,
-        "rgb": 1712250
+        "rgb": 3981579
+      }
+    },
+    {
+      "query": "In Process",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "section:(En revision)",
+      "color": {
+        "a": 1,
+        "rgb": 13893887
+      }
+    },
+    {
+      "query": "falta datos",
+      "color": {
+        "a": 1,
+        "rgb": 657370
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 16.5696465696466,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.18462326225858547,
-  "close": true
+  "scale": 0.7352992594047278,
+  "close": false
 }
